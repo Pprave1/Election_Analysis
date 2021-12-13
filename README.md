@@ -14,7 +14,7 @@ o	Charles Casper Stock ham: 23.0% (vote #: 85,213)
 o	Diana DeGette: 73.8% (vote #272,892)
 o	Raymon Anthony Doane: 3.1%(vote#11,606)
 -	From the final report, the winner was announced as Diana DeGette who won 272,892 votes which 73.8% of total votes.
--	### please find the report as below:
+### Please find the report as below:
 
 ![Election_finalreport.png](Resources/Election_finalreport.png)
 
