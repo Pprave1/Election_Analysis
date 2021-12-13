@@ -1,7 +1,7 @@
 ## Overview of Election Audit
 ### The purpose of this project is to assist a Colorado Board of Election employee Tom in an election audit of the tabulated results for US Congressional precinct.  By the end of the project we will help Tom to find out the total number of votes casted, the total number of votes for each candidate, the percentage of votes, and the winner of the election. We automate the process with the help of Python as a programming language.
 ### Please find the attached data file used for this project
-
+  [election_results.csv](Resources/election_results.csv)
 ##  Election Audit Results
 -	There are total number of 369,711 votes were casted in this election
 -	Please find the report of votes casted by counties.
